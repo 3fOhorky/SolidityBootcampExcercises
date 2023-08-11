@@ -13,7 +13,7 @@ Hello! This repository contains my solutions to the Solidity exercises, homework
 
 ## Introduction
 
-The Encode Solidity Bootcamp is an intensive program designed to introduce and dive deep into the world of Solidity, the leading language for smart contract development on Ethereum.
+The Encode Solidity Bootcamp is an intensive program designed to introduce and dive deep into the world of Solidity and dApp programming.
 
 ## Topics Covered
 
