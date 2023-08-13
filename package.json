@@ -28,5 +28,8 @@
     "typechain": "^8.1.0",
     "typescript": ">=4.5.0",
     "usingtellor": "^5.0.4"
+  },
+  "dependencies": {
+    "@uniswap/v3-periphery": "^1.4.3"
   }
 }
